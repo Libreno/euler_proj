@@ -1,0 +1,10 @@
+C:\Users\fmuminov\Documents\Visual Studio 2012\Projects\PokerHands\PokerHands\obj\Debug\PokerHands.csprojResolveAssemblyReference.cache
+C:\Users\fmuminov\Documents\Visual Studio 2012\Projects\PokerHands\PokerHands\bin\Debug\TestData\poker.txt
+C:\Users\fmuminov\Documents\Visual Studio 2012\Projects\PokerHands\PokerHands\bin\Debug\PokerHands.exe
+C:\Users\fmuminov\Documents\Visual Studio 2012\Projects\PokerHands\PokerHands\bin\Debug\PokerHands.pdb
+C:\Users\fmuminov\Documents\Visual Studio 2012\Projects\PokerHands\PokerHands\bin\Debug\MoreLinq.dll
+C:\Users\fmuminov\Documents\Visual Studio 2012\Projects\PokerHands\PokerHands\bin\Debug\nunit.framework.dll
+C:\Users\fmuminov\Documents\Visual Studio 2012\Projects\PokerHands\PokerHands\bin\Debug\MoreLinq.xml
+C:\Users\fmuminov\Documents\Visual Studio 2012\Projects\PokerHands\PokerHands\obj\Debug\PokerHands.exe
+C:\Users\fmuminov\Documents\Visual Studio 2012\Projects\PokerHands\PokerHands\obj\Debug\PokerHands.pdb
+C:\Users\fmuminov\Documents\Visual Studio 2012\Projects\PokerHands\PokerHands\bin\Debug\PokerHands.exe.config
